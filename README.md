@@ -10,7 +10,7 @@ I'm a lower-secondary school student starting my journey into programming. My ex
 
 ## Skills I Aim to Acquire
 - Java, C#, C++, TypeScript, C, SQL, Rust, Lua  
-- Linux for a reliable development environment  
+- Linux to save my soul from windows...
 
 ## About Me
 I enjoy experimenting and creating projects for others to use. I've loved coding since I was very young, especially in LBP2 world coding.
