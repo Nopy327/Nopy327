@@ -12,10 +12,6 @@ I'm a lower-secondary school student starting my journey into programming. My ex
 
 ---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
----
-
 ## Current Focus
 - **Web Development:** HTML, CSS, JavaScript, PHP  
 - **Programming:** Python  
