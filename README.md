@@ -12,9 +12,7 @@ I'm a lower-secondary school student starting my journey into programming. My ex
 
 ---
 
-## Activity Snake
-
-![Snake Activity](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 
