@@ -13,8 +13,8 @@ I'm a lower-secondary school student starting my journey into programming. My ex
 ---
 
 ## Current Focus
-- **Web Development:** HTML, CSS, JavaScript, PHP  
-- **Programming:** Python  
+- Web Development: HTML, CSS, JavaScript, PHP  
+- Programming: Python  
 
 ## Skills I Aim to Acquire
 - Java, C#, C++, TypeScript, C, SQL, Rust, Lua  
