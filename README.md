@@ -20,7 +20,7 @@ I am currently enrolled in a lower-secondary school program and starting my jour
 
 ## About Me
 
-I enjoy experimenting with small projects and exploring new technologies. I believe that learning by doing, making mistakes, and iterating is the best way to get better at programming.
+I enjoy experimenting and creating projects for others to play with, ive always had this love in this field since i was very small especially in LBP2 world coding
 
 ---
 
