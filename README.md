@@ -8,7 +8,7 @@ I'm a lower-secondary school student starting my journey into programming. My ex
 
 ![Nopy™ GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nopy327&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nopy327&layout=compact&theme=radical)
 
 ---
 
