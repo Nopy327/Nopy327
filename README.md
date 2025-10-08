@@ -1,6 +1,6 @@
-# Hi, I'm Nopy
+# Hi, I'm Nopy™
 
-I am currently enrolled in a lower-secondary school program and beginning my journey into programming. While my coding experience is limited, I am eager to learn and develop my skills through hands-on projects and continuous practice.
+I am currently enrolled in a lower-secondary school program and starting my journey into programming. My coding experience is still limited, but I am eager to learn and improve by actually building things and trying stuff out.
 
 ---
 
@@ -20,7 +20,7 @@ I am currently enrolled in a lower-secondary school program and beginning my jou
 
 ## About Me
 
-I enjoy experimenting with small projects and exploring new technologies. I believe that learning by doing, making mistakes, and iterating is the most effective path to growth in programming.
+I enjoy experimenting with small projects and exploring new technologies. I believe that learning by doing, making mistakes, and iterating is the best way to get better at programming.
 
 ---
 
@@ -39,4 +39,4 @@ I enjoy experimenting with small projects and exploring new technologies. I beli
 
 ---
 
-*"Every expert was once a beginner. Continuous learning is key to growth in programming."*
+*"Every expert was once a beginner. The best way to learn is by actually trying things out."*
