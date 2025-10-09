@@ -4,8 +4,6 @@ I'm a lower-secondary school student starting my journey into programming. My ex
 
 ---
 
-## GitHub Statistics
-
 ![Nopy™ GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nopy327&show_icons=false&theme=onedark&title_color=00ff00&text_color=ffffff&bg_color=0d1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nopy327&layout=compact&theme=onedark&title_color=00ff00&text_color=ffffff&bg_color=0d1117)
