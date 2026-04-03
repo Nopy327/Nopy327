@@ -6,14 +6,14 @@ I'm a lower-secondary school student starting my journey into programming. My ex
 
 ## Current Focus
 - Web Development: HTML, CSS, JavaScript, PHP  
-- Programming: Python  
+- Programming: Python, C
 
 ## Skills I Aim to Acquire
-- Java, C#, C++, TypeScript, C, SQL, Rust, Lua  
+- Java, C#, C++, TypeScript, SQL, Rust, Lua  
 - Linux to save my soul from windows
 
 ## About Me
-I enjoy experimenting and creating projects for others to use. I've loved coding since I was very young, especially in LBP2 world coding.
+I enjoy experimenting and creating projects for others to use. I've loved coding since I was very young, especially in the LBP2 world of coding.
 
 ## Connect with Me
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/746400424722038858)
