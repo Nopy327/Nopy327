@@ -5,7 +5,7 @@ I'm a lower-secondary school student starting my journey into programming. My ex
 ---
 ## Skills I Aim to Acquire
 - HTML, CSS, JavaScript, PHP, Python, C, Java, C#, C++, TypeScript, SQL, Rust, Lua  
-- Linux to save my soul from windows
+- Linux Debian, Fedora, Arch and Windows CMD
 
 ## Contact
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/746400424722038858)
